@@ -1,8 +1,11 @@
-<h1 align="center"> Selenium - Java (Cucumber) with chrome driver  </h1> <br>
+<h1 align="center"> Selenium - Java (Cucumber) with chrome driver  </h1>
+<h3> Description: </h3>
 
-<p align="center">
-  Description: This is a demo testcase on java tech with cucumber and selenium test. There are couple testcases ( 2 automation scripts ): which validates the business scenarios.
-</p>
+````
+-> This is a demo testcase on java with cucumber and selenium test; 
+-> Structured design based on the Page Object Model (POM) design pattern; 
+-> There are couple testcases ( 2 automation scripts ): which validates the business scenarios.
+````
 
 ## Table of Contents
 
